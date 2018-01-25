@@ -32,4 +32,4 @@ you must be able to use SuperSocket to build your socket application as a part o
 [6]: https://www.nuget.org/packages/SuperSocket.WebSocket
 
 
-*Copyright 2010-2015 Kerry Jiang (kerry-jiang@hotmail.com)*
+*Copyright 2010-2015 Kerry Jiang (kerry-jiang@hotmail.com)*1
